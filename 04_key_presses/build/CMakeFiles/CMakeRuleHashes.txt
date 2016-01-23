@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+db76630bdae460faa03d1ce8466390d2 CMakeFiles/ui_copy_04_key_presses
+db76630bdae460faa03d1ce8466390d2 src/test.c
+5e115de761f000d5687ccd75b95f5149 vala.stamp

@@ -1,5 +1,5 @@
 <project version="0.1">
-    <name>02_getting_an_image_on_the_screen</name>
+    <name>18_key_states</name>
     <buildsystem library="false">cmake</buildsystem>
     <version>
         <major>0</major>

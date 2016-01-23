@@ -1,0 +1,2 @@
+/home/bruce/SDL2/04_key_presses/build/CMakeFiles/04_key_presses.dir
+/home/bruce/SDL2/04_key_presses/build/CMakeFiles/ui_copy_04_key_presses.dir

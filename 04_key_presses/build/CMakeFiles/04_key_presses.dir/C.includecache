@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/SDL2/04_key_presses/build/src/test.c
+glib.h
+-
+glib-object.h
+-
+SDL2/SDL_video.h
+-
+SDL2/SDL_surface.h
+-
+SDL2/SDL.h
+-
+SDL2/SDL_events.h
+-
+stdio.h
+-
+SDL2/SDL_keycode.h
+-
+stdlib.h
+-
+string.h
+-
+gobject/gvaluecollector.h
+-
+
