@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+4e5d96ba496d56b4b7b9d61c1217ae16 CMakeFiles/ui_copy_05_optimized_surface_loading_and_soft_stretching
+4e5d96ba496d56b4b7b9d61c1217ae16 src/test.c
+4e82870eda79bd6e1c271e1d9096e105 vala.stamp

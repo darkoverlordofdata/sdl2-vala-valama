@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+08679b801fd60923aeceb8ceb37b1dcb CMakeFiles/ui_copy_07_texture_loading_and_rendering
+08679b801fd60923aeceb8ceb37b1dcb src/test.c
+25482d63b47663a2cd81fd993d367835 vala.stamp

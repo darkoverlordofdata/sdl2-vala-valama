@@ -1,0 +1,2 @@
+/home/bruce/SDL2/16_true_type_fonts/build/CMakeFiles/16_true_type_fonts.dir
+/home/bruce/SDL2/16_true_type_fonts/build/CMakeFiles/ui_copy_16_true_type_fonts.dir

@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+a40c413f0529e3dc817acb6606aac7ae CMakeFiles/ui_copy_14_animated_sprites_and_vsync
+a40c413f0529e3dc817acb6606aac7ae src/MyTexture.c
+2471535138d524e9b6c647759a9a4c6e vala.stamp

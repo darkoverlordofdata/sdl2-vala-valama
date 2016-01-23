@@ -1,0 +1,2 @@
+/home/bruce/SDL2/07_texture_loading_and_rendering/build/CMakeFiles/07_texture_loading_and_rendering.dir
+/home/bruce/SDL2/07_texture_loading_and_rendering/build/CMakeFiles/ui_copy_07_texture_loading_and_rendering.dir

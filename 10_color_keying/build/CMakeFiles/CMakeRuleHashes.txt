@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+f248366c77f3e61c20f5b5932d4abe6b CMakeFiles/ui_copy_10_color_keying
+f248366c77f3e61c20f5b5932d4abe6b src/test.c
+284c494f8b31608463f4a33aaba187ec vala.stamp

@@ -1,0 +1,2 @@
+/home/bruce/SDL2/18_key_states/build/CMakeFiles/18_key_states.dir
+/home/bruce/SDL2/18_key_states/build/CMakeFiles/ui_copy_18_key_states.dir

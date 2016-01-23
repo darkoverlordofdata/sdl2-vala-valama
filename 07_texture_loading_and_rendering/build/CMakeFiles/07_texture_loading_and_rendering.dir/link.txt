@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/07_texture_loading_and_rendering.dir/src/test.c.o  -o 07_texture_loading_and_rendering -rdynamic -lSDL2_image -lSDL2 -lSDL2_ttf -lSDL2 -lglib-2.0 -lgobject-2.0 -lglib-2.0 -lSDL2 -pthread -lgthread-2.0 -lglib-2.0 -lSDL2 -lSDL2_ttf -lgobject-2.0 -lgthread-2.0 

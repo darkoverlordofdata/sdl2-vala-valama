@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+d04e79b9ad2d380d28a3179b3106a2f8 CMakeFiles/ui_copy_06_extension_libraries_and_loading_other_image_formats
+d04e79b9ad2d380d28a3179b3106a2f8 src/test.c
+5128362c7ae87947718e1737e06fa6af vala.stamp

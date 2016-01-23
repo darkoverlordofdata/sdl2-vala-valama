@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+84f1f79a107e29d96a62b6afccde97c4 CMakeFiles/ui_copy_16_true_type_fonts
+84f1f79a107e29d96a62b6afccde97c4 src/MyTexture.c
+e5118087297c87e6eea6951c0afe1eb6 vala.stamp

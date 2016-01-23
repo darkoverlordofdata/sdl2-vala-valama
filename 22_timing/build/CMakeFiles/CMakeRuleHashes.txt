@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+b585ccd7e72356ec7e20cfdb8e2d73c0 CMakeFiles/ui_copy_22_timing
+b585ccd7e72356ec7e20cfdb8e2d73c0 src/MyTexture.c
+aa5e377043381e46e49a263ed3d503c7 vala.stamp

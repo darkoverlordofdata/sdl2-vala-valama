@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/SDL2/05_optimized_surface_loading_and_soft_stretching/build/src/test.c
+glib.h
+-
+glib-object.h
+-
+SDL2/SDL_video.h
+-
+SDL2/SDL_surface.h
+-
+SDL2/SDL.h
+-
+SDL2/SDL_events.h
+-
+stdio.h
+-
+SDL2/SDL_keycode.h
+-
+stdlib.h
+-
+string.h
+-
+SDL2/SDL_rect.h
+-
+SDL/SDL.h
+-
+gobject/gvaluecollector.h
+-
+

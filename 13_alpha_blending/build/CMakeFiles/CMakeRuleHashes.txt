@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+a29bc6c081fb5726b1c55f7afa22b6a3 CMakeFiles/ui_copy_13_alpha_blending
+a29bc6c081fb5726b1c55f7afa22b6a3 src/MyTexture.c
+5bdc61d18dfd49c8cd9de0b4b832d7bb vala.stamp

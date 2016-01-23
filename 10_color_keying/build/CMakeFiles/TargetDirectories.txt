@@ -1,0 +1,2 @@
+/home/bruce/SDL2/10_color_keying/build/CMakeFiles/10_color_keying.dir
+/home/bruce/SDL2/10_color_keying/build/CMakeFiles/ui_copy_10_color_keying.dir

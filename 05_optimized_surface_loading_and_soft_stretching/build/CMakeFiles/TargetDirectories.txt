@@ -1,0 +1,2 @@
+/home/bruce/SDL2/05_optimized_surface_loading_and_soft_stretching/build/CMakeFiles/05_optimized_surface_loading_and_soft_stretching.dir
+/home/bruce/SDL2/05_optimized_surface_loading_and_soft_stretching/build/CMakeFiles/ui_copy_05_optimized_surface_loading_and_soft_stretching.dir

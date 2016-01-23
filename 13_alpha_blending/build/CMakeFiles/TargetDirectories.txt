@@ -1,0 +1,2 @@
+/home/bruce/SDL2/13_alpha_blending/build/CMakeFiles/13_alpha_blending.dir
+/home/bruce/SDL2/13_alpha_blending/build/CMakeFiles/ui_copy_13_alpha_blending.dir

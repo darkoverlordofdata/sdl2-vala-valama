@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/06_extension_libraries_and_loading_other_image_formats.dir/src/test.c.o  -o 06_extension_libraries_and_loading_other_image_formats -rdynamic -lSDL2_image -lSDL2 -lSDL2_ttf -lSDL2 -lglib-2.0 -lgobject-2.0 -lglib-2.0 -lSDL2 -pthread -lgthread-2.0 -lglib-2.0 -lSDL2 -lSDL2_ttf -lgobject-2.0 -lgthread-2.0 

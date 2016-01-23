@@ -1,0 +1,2 @@
+/home/bruce/SDL2/09_the_viewport/build/CMakeFiles/09_the_viewport.dir
+/home/bruce/SDL2/09_the_viewport/build/CMakeFiles/ui_copy_09_the_viewport.dir

@@ -1,0 +1,2 @@
+/home/bruce/SDL2/14_animated_sprites_and_vsync/build/CMakeFiles/14_animated_sprites_and_vsync.dir
+/home/bruce/SDL2/14_animated_sprites_and_vsync/build/CMakeFiles/ui_copy_14_animated_sprites_and_vsync.dir

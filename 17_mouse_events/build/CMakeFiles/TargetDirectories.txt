@@ -1,0 +1,2 @@
+/home/bruce/SDL2/17_mouse_events/build/CMakeFiles/17_mouse_events.dir
+/home/bruce/SDL2/17_mouse_events/build/CMakeFiles/ui_copy_17_mouse_events.dir

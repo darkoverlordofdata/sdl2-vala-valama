@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+461b4194e58114114e2a54c592d871eb CMakeFiles/ui_copy_08_geometry_rendering
+461b4194e58114114e2a54c592d871eb src/test.c
+f387d2e23a6851681d00f8dbbe64c7a3 vala.stamp

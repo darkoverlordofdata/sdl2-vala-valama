@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+6c866777f2278c445d592aeea8aa836e CMakeFiles/ui_copy_15_rotation_and_flipping
+6c866777f2278c445d592aeea8aa836e src/MyTexture.c
+dbb4fab44951b2bdaaabdaa00aa901fc vala.stamp

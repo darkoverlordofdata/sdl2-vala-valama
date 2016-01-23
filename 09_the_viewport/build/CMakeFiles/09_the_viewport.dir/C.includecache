@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/SDL2/09_the_viewport/build/src/test.c
+glib.h
+-
+glib-object.h
+-
+SDL2/SDL_video.h
+-
+SDL2/SDL_render.h
+-
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+SDL2/SDL_events.h
+-
+SDL2/SDL_pixels.h
+-
+SDL2/SDL_rect.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+SDL2/SDL_surface.h
+-
+gobject/gvaluecollector.h
+-
+

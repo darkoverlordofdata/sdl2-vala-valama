@@ -1,0 +1,2 @@
+/home/bruce/SDL2/08_geometry_rendering/build/CMakeFiles/08_geometry_rendering.dir
+/home/bruce/SDL2/08_geometry_rendering/build/CMakeFiles/ui_copy_08_geometry_rendering.dir

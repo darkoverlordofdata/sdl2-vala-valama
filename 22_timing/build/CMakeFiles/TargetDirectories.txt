@@ -1,0 +1,2 @@
+/home/bruce/SDL2/22_timing/build/CMakeFiles/22_timing.dir
+/home/bruce/SDL2/22_timing/build/CMakeFiles/ui_copy_22_timing.dir

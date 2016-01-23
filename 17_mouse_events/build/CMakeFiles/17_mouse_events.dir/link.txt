@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/17_mouse_events.dir/src/MyButton.c.o CMakeFiles/17_mouse_events.dir/src/MyTexture.c.o CMakeFiles/17_mouse_events.dir/src/test.c.o  -o 17_mouse_events -rdynamic -lSDL2_image -lSDL2 -lSDL2_ttf -lSDL2 -lglib-2.0 -lgobject-2.0 -lglib-2.0 -lSDL2 -pthread -lgthread-2.0 -lglib-2.0 -lSDL2 -lSDL2_ttf -lgobject-2.0 -lgthread-2.0 

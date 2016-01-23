@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/15_rotation_and_flipping.dir/src/MyTexture.c.o CMakeFiles/15_rotation_and_flipping.dir/src/test.c.o  -o 15_rotation_and_flipping -rdynamic -lSDL2_image -lSDL2 -lSDL2_ttf -lSDL2 -lglib-2.0 -lgobject-2.0 -lglib-2.0 -lSDL2 -pthread -lgthread-2.0 -lglib-2.0 -lSDL2 -lSDL2_ttf -lgobject-2.0 -lgthread-2.0 

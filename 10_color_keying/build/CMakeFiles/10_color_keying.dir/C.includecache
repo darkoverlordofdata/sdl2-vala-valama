@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/SDL2/10_color_keying/build/src/test.c
+glib.h
+-
+glib-object.h
+-
+SDL2/SDL_render.h
+-
+stdlib.h
+-
+string.h
+-
+SDL2/SDL_surface.h
+-
+SDL2/SDL_image.h
+-
+stdio.h
+-
+SDL2/SDL_pixels.h
+-
+SDL2/SDL.h
+-
+SDL2/SDL_rect.h
+-
+SDL2/SDL_video.h
+-
+SDL2/SDL_events.h
+-
+gobject/gvaluecollector.h
+-
+

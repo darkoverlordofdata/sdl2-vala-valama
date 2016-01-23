@@ -1,0 +1,2 @@
+/home/bruce/SDL2/15_rotation_and_flipping/build/CMakeFiles/15_rotation_and_flipping.dir
+/home/bruce/SDL2/15_rotation_and_flipping/build/CMakeFiles/ui_copy_15_rotation_and_flipping.dir

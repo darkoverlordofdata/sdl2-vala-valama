@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/18_key_states.dir/src/MyTexture.c.o CMakeFiles/18_key_states.dir/src/test.c.o  -o 18_key_states -rdynamic -lSDL2_image -lSDL2 -lSDL2_ttf -lSDL2 -lglib-2.0 -lgobject-2.0 -lglib-2.0 -lSDL2 -pthread -lgthread-2.0 -lglib-2.0 -lSDL2 -lSDL2_ttf -lgobject-2.0 -lgthread-2.0 
