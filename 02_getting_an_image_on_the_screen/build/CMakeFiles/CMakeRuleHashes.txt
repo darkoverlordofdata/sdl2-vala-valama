@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+7afc778ddbec94e989cfde21cc7cdc0f CMakeFiles/ui_copy_02_getting_an_image_on_the_screen
+7afc778ddbec94e989cfde21cc7cdc0f src/test.c
+3d21853a390ebbce725170fc1c76470b vala.stamp

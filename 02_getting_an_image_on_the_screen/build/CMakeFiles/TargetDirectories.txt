@@ -1,0 +1,2 @@
+/home/bruce/SDL2/02_getting_an_image_on_the_screen/build/CMakeFiles/02_getting_an_image_on_the_screen.dir
+/home/bruce/SDL2/02_getting_an_image_on_the_screen/build/CMakeFiles/ui_copy_02_getting_an_image_on_the_screen.dir
